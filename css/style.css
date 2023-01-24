@@ -198,7 +198,7 @@
 /* section hero */
 
 .main-hero {
-    background-image: url("/img/slider1.png");
+    background-image: url("img/slider1.png");
     text-align: center;
     display: flex;
     position: relative;

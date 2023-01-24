@@ -369,11 +369,11 @@ h2 {
 }
 
 .consultation {
-    background-image: url(img/briefcase.svg);
+    background-image: url(../img/briefcase.svg);
 }
 
 .blogging {
-    background-image: url(img/notes.svg);
+    background-image: url(../img/notes.svg);
 }
 
 .social-media {
